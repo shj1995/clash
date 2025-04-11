@@ -1,0 +1,10 @@
+# 内容：CustomDirect
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+# DOMAIN-KEYWORD,Claude
+# 域名后缀匹配
+DOMAIN-SUFFIX,111.run
+DOMAIN-SUFFIX,askdr.cn
+DOMAIN-SUFFIX,i-hygeia.com
+DOMAIN-SUFFIX,shj1995.com
