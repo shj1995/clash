@@ -136,6 +136,7 @@ DOMAIN-SUFFIX,colaotc.com
 # 自定义
 DOMAIN-SUFFIX,fish.audio
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,rousi.zip
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
